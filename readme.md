@@ -86,6 +86,7 @@
 - [Free Podcast Transcription](https://freepodcasttranscription.com) - Runs locally in your browser.
 - [Gladia](https://www.gladia.io) - Transcription with real-time processing.
 - [Whisper-Web](https://github.com/PierreMesure/whisper-web) - Local transcription using WebGPU, with optimised fine-tuned models for several languages. (FOSS)
+- [Burncaps](https://burncaps.app) - Burns word-by-word captions into talking videos, with Whisper running in the browser on computers; the video is never uploaded.
 
 ### Self-hosted
 
